@@ -1,0 +1,68 @@
+h1 {
+  font-family: "Montserrat";
+}
+body {
+  font-family: "Lato", sans-serif;
+  display: inline-block;
+}
+ul {
+    border-radius: 2px solid black;
+    list-style-type: '✓';
+    border-radius: 2px;
+  
+
+}
+
+.text {
+    border-radius: 8px solid black;
+    background: #E3F3ED; 
+    display: inline-block;
+    padding:1px;
+
+
+}
+
+.text-list {
+    padding-inline-start: 1px;
+}
+
+.text,
+.pay {
+    display: inline-block;
+    width: 40%;
+    box-shadow: 1px 1px 8px -1px black;
+    vertical-align: top;
+}
+.pay{
+    displey: inline-block;
+    text-align: center;
+    border-radius: 6px solid rgb(31, 31, 224);
+    padding: 90px;
+    
+    
+    
+}
+header {
+    color:blue;
+}
+div {
+    margin: 50px auto;
+}
+.text-list li i {
+    color: #33a9f8;
+}
+
+.pay button {
+
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    }
+    .pay button {
+        hover: pointer;
+    }
+    
+.pay p {
+    font-style:  large ;
+    padding: auto;
+}
